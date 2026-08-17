@@ -1,4 +1,4 @@
-# Finance App
+# Finance App Project Brief
 
 ## Product idea
 
@@ -6,22 +6,24 @@ A responsive personal-finance web application that helps many users manage incom
 
 ## Planned features
 
-1. User registration, login, logout, email verification, and password recovery.
-2. Add salary and other sources of income.
-3. Create custom spending, saving, and investment categories.
-4. Allocate a fixed amount or percentage of income to each category.
-5. Show the calculated amount for percentage-based allocations and allow users to mark allocations as completed.
-6. Record expenses with amount, date, category, wallet, currency, and description.
-7. Support multiple currencies, especially USD and Syrian pound (SYP).
-8. Let users select a Central Bank rate, market rate, or custom manual exchange rate.
-9. Store the original amount, original currency, exchange rate used, converted amount, and transaction date for every financial transaction.
-10. Create financial goals with a target amount and target date.
-11. Recommend how much and what percentage of income the user should save toward a goal, and display progress and an estimated completion date.
-12. Calculate a safe daily spending allowance from the remaining monthly budget and remaining days.
-13. Provide daily, weekly, and monthly summaries.
-14. Show spending totals by category and charts comparing income, expenses, and savings.
-15. Display online exchange rates and gold prices, with cached data and manual fallbacks.
-16. Provide Arabic and English interfaces and a mobile-friendly design.
+Status convention: `+` means pending and `-` means completed and verified.
+
++1. User registration, login, logout, email verification, and password recovery.
++2. Add salary and other sources of income.
++3. Create custom spending, saving, and investment categories.
++4. Allocate a fixed amount or percentage of income to each category.
++5. Show the calculated amount for percentage-based allocations and allow users to mark allocations as completed.
++6. Record expenses with amount, date, category, wallet, currency, and description.
++7. Support multiple currencies, especially USD and Syrian pound (SYP).
++8. Let users select a Central Bank rate, market rate, or custom manual exchange rate.
++9. Store the original amount, original currency, exchange rate used, converted amount, and transaction date for every financial transaction.
++10. Create financial goals with a target amount and target date.
++11. Recommend how much and what percentage of income the user should save toward a goal, and display progress and an estimated completion date.
++12. Calculate a safe daily spending allowance from the remaining monthly budget and remaining days.
++13. Provide daily, weekly, and monthly summaries.
++14. Show spending totals by category and charts comparing income, expenses, and savings.
++15. Display online exchange rates and gold prices, with cached data and manual fallbacks.
++16. Provide Arabic and English interfaces and a mobile-friendly design.
 
 ## External data plan
 
